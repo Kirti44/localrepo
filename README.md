@@ -1,0 +1,2 @@
+# File to learn how to move an existing file in system to github.
+<p>first we make it as git file by git init, then add repo of github we write git remote add origin <link>,then can check current remote origin using git remote -v, then can check current branch git branch, can change branch name suing git branch -M name of brach(we give main as it is by default in github nowadayas), then we finally push the changes using push command - git push origin main</p>
